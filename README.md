@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+<h3 align="center">How to reach me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cspyridakis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-badge"></a> 
+  <a href="https://www.facebook.com/cspyridakis"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook-badge"></a> 
+  <a href="https://twitter.com/ChSpyridakis"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter-badge"></a> 
+  <a href="https://www.instagram.com/cspyridakis/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-badge"></a> 
+  <a href="https://www.youtube.com/channel/UCNyVQmKRRISnqVJFG8p0VEw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube-badge"></a> 
+</p>
+
 <!--
 **CSpyridakis/CSpyridakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
