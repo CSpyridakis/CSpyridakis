@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently, I am operating on my Thesis for my Electrical and Computer Engineering Diploma. 
+- 🔭 Currently, I am working on my Thesis for my Electrical and Computer Engineering Diploma. 
 - 🤔 As a soon graduate student, trying to get working experience and test my knowledge on real-file scenarios.
 - ⚡ Whenever I find the time, I work on side projects, update documentation or try to fix known bugs on my already published ones. 
 - 💬 Ask me for more information if you find out one of my published projects interesting to you.
