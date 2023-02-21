@@ -47,6 +47,8 @@ I am Christos, an Embedded Engineer from Greece, currently living in Heraklion.
   <a href="https://www.arduino.cc/"><img style="height: 40px" src="doc/arduino_logo.png" alt="Arduino Logo" class="logo"></a> 
   <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img style="height: 40px" src="doc/stm32cubeide_logo.png" alt="STM32CubeIDE" class="logo"></a> 
   <a href="https://www.eclipse.org/"><img style="height: 40px" src="doc/eclipse_logo.png" alt="Eclipse Logo" class="logo"></a> 
+  <a href="https://www.autodesk.com/products/eagle/overview"><img src="doc/eagle-cad-logo.png" style="height: 40px" alt="Eagle Logo" class="logo"></a>
+  <a href="https://fritzing.org/"><img src="doc/fritzing_logo.png" style="height: 40px" alt="Fritzing Logo" class="logo"></a> 
   <hr>
   <!-- -------------------------------------------------------------------------------------------------------------- -->
   <h4 class="class-group">Frameworks/Libraries:</h4>
@@ -55,6 +57,7 @@ I am Christos, an Embedded Engineer from Greece, currently living in Heraklion.
   <a href="https://en.wikipedia.org/wiki/Pthreads"><img style="height: 40px" src="doc/pthreads_logo.png" alt="PThreads Logo" class="logo"></a> 
   <a href="https://pybind11.readthedocs.io/en/stable/basics.html"><img style="height: 40px" src="doc/pybind11_logo.png" alt="Pybind11" class="logo"></a> 
   <a href="https://www.openmp.org/"><img style="height: 40px" src="doc/openmp_logo.png" alt="OpenMP Logo" class="logo"></a>
+  <a href="https://www.tinyusb.org/"><img src="doc/tinyusb_logo.png" style="height: 40px" alt="tinyusb" class="logo"></a> 
   <hr>
   <!-- -------------------------------------------------------------------------------------------------------------- -->
   <h4 class="class-group">Web:</h4>
@@ -70,6 +73,12 @@ I am Christos, an Embedded Engineer from Greece, currently living in Heraklion.
   <a href="https://www.vmware.com/"><img style="height: 40px" src="doc/vm-ware-logo.png" alt="VMWare Logo" class="logo"></a> 
   <a href="https://www.virtualbox.org/"><img style="height: 40px" src="doc/virtualbox-logo.png" alt="Virtualbox Logo" class="logo"></a> 
   <hr>
+  <!-- -------------------------------------------------------------------------------------------------------------- -->
+  <h4 class="class-group">Protocols/Standards:</h4>
+  <a href="https://en.wikipedia.org/wiki/USB"><img src="doc/usb_logo.png" style="height: 40px" alt="USB Protocol" class="logo"></a> 
+  <a href="https://en.wikipedia.org/wiki/I%C2%B2C"><img src="doc/i2c_logo.png" style="height: 40px" alt="I2C Protocol" class="logo"></a> 
+  <a href="https://en.wikipedia.org/wiki/Serial_Peripheral_Interface"><img src="doc/spi_logo.png" style="height: 40px" alt="SPI Protocol" class="logo"></a> 
+  <a href="https://el.wikipedia.org/wiki/UART"><img src="doc/uart_logo.png" style="height: 40px" alt="UART Protocol" class="logo"></a> 
    <hr>
   <!-- -------------------------------------------------------------------------------------------------------------- -->
 </p>
