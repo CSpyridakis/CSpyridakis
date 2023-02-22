@@ -1,5 +1,4 @@
-<h1  align="center">Hi there!</h1>
-
+![./Github_Readme.png](./Github_Readme.png)
 Welcome to my GitHub page! 
 
 I am Christos, an Embedded Engineer from Greece, currently living in Heraklion.
