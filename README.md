@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page! 
 
-I am Christos, an Embedded Engineer from Greece, currently living in Heraklion.
+I am Christos, a Systems Engineer from Greece, currently living in Heraklion.
 <hr>
 
 <h3 align="center">These are some of the technologies I have used in the past:</h3>
