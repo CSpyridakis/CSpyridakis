@@ -3,6 +3,15 @@
 Welcome to my GitHub page! 
 
 I am Christos, an Engineer from Greece, currently living in Heraklion.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cspyridakis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-badge"></a> 
+  <a href="https://www.facebook.com/cspyridakis"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook-badge"></a> 
+  <a href="https://twitter.com/ChSpyridakis"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter-badge"></a> 
+  <a href="https://www.instagram.com/cspyridakis/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-badge"></a> 
+  <a href="https://www.youtube.com/channel/UCNyVQmKRRISnqVJFG8p0VEw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube-badge"></a> 
+</p>
+
 <hr>
 
 <h3 align="center">These are some of the technologies I have used in the past:</h3>
@@ -83,15 +92,6 @@ I am Christos, an Engineer from Greece, currently living in Heraklion.
   <!-- -------------------------------------------------------------------------------------------------------------- -->
 </p>
 
-<h2 align="center">P.S: I invite you to be my guest! Look around my public repos and do not hesitate to contact me if you find interesting one of them ;)
-</h2>
-<hr>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cspyridakis&style=flat-square)
 
-<h2 align="center">How to reach me:</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/cspyridakis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-badge"></a> 
-  <a href="https://www.facebook.com/cspyridakis"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook-badge"></a> 
-  <a href="https://twitter.com/ChSpyridakis"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter-badge"></a> 
-  <a href="https://www.instagram.com/cspyridakis/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-badge"></a> 
-  <a href="https://www.youtube.com/channel/UCNyVQmKRRISnqVJFG8p0VEw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube-badge"></a> 
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cspyridakis&theme=dark&hide_border=false)<br/>
