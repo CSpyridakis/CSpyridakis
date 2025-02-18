@@ -16,6 +16,57 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
 
 <hr>
 
+## Feature Projects
+
+<table>
+  <tr>
+    <!-- Stemerot -->
+    <td align="center" valign="top">
+      <strong>Founder of Stemerot.com</strong><br>
+      <a href="https://stemerot.com" style="text-decoration: none; color: inherit;">
+        <img src="doc/stemerot-screenshot.png" alt="Stemerot.com screenshot" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
+      </a><br>
+      <em>Hugo, Bash, CI/CD, Cloudflare</em>
+    </td>
+    <!-- Homelab -->
+    <td align="center" valign="top">
+      <strong>Homelab</strong><br>
+      <a href="https://github.com/CSpyridakis/homelab" style="text-decoration: none; color: inherit;">
+        <img src="doc/homelab.png" alt="Homelab" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
+      </a><br>
+      <em>System Administration, Networks, Proxmox, Docker, Mikrotik</em>
+    </td>
+    <!-- Mocap System -->
+    <td align="center" valign="top">
+      <strong>Mocap System</strong><br>
+      <a href="https://github.com/CSpyridakis/ros_drone_swarm_mocap" style="text-decoration: none; color: inherit;">
+        <img src="doc/thesis-system.jpg" alt="Mocap System" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
+      </a><br>
+      <em>C++, Matlab, ROS, Raspberry Pi, Bash</em>
+    </td>
+  </tr>
+  <tr>
+    <!-- Electra -->
+    <td align="center" valign="top">
+      <strong>Electra</strong><br>
+      <a href="https://github.com/Grehasopt/Electra-pcb" style="text-decoration: none; color: inherit;">
+        <img src="doc/electra.png" alt="Electra" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
+      </a><br>
+      <em>ESP8266, Kicad, ESP-IDF, C</em>
+    </td>
+    <!-- Personal collection of notes -->
+    <td align="center" valign="top">
+      <strong>Personal collection of notes</strong><br>
+      <a href="https://github.com/CSpyridakis/notes" style="text-decoration: none; color: inherit;">
+        <img src="doc/notes-repo.png" alt="Personal collection of notes" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
+      </a><br>
+      <em>AWS, RPM, RPM, Jenkins, Linux, Rust</em>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
 <h3 align="">These are some of the technologies I have used in the past:</h3>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img style="height: 36px" src="doc/c_logo.png" alt="C Logo" class="logo"></a> 
 <a href="http://www.cplusplus.org/"><img style="height: 36px" src="doc/cpp_logo.png" alt="Cpp Logo" class="logo"></a>
