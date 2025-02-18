@@ -24,7 +24,7 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
     <td align="center" valign="top">
       <strong>Founder of Stemerot.com</strong><br>
       <a href="https://stemerot.com" style="text-decoration: none; color: inherit;">
-        <img src="doc/stemerot-screenshot.png" alt="Stemerot.com screenshot" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
+        <img src="doc/stemerot-site.png" alt="Stemerot.com screenshot" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
       </a><br>
       <em>Hugo, Bash, CI/CD, Cloudflare</em>
     </td>
