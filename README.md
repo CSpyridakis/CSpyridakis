@@ -122,8 +122,7 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
 ---
 
 ## Some profile statistics
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=cspyridakis&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=cspyridakis&theme=dark)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cspyridakis&style=flat-square)
 
