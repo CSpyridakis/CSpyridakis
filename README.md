@@ -60,7 +60,7 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
       <a href="https://github.com/CSpyridakis/notes" style="text-decoration: none; color: inherit;">
         <img src="doc/notes-repo.png" alt="Personal collection of notes" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
       </a><br>
-      <em>AWS, RPM, RPM, Jenkins, Linux, Rust</em>
+      <em>AWS, RPM, Jenkins, Linux, Rust</em>
     </td>
   </tr>
 </table>
