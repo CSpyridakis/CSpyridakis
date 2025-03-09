@@ -36,6 +36,16 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
       </a><br>
       <em>System Administration, Networks, Proxmox, Docker, Virtualization, Mikrotik</em>
     </td>
+    <!-- Personal collection of notes -->
+    <td align="center" valign="top">
+      <strong>Personal collection of notes</strong><br>
+      <a href="https://github.com/CSpyridakis/notes" style="text-decoration: none; color: inherit;">
+        <img src="doc/notes-repo.png" alt="Personal collection of notes" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
+      </a><br>
+      <em>AWS, RPM, Jenkins, Linux, Rust</em>
+    </td>
+  </tr>
+  <tr>
     <!-- Mocap System -->
     <td align="center" valign="top">
       <strong>Mocap System</strong><br>
@@ -44,23 +54,21 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
       </a><br>
       <em>C++, Matlab, ROS, Raspberry Pi, Bash</em>
     </td>
-  </tr>
-  <tr>
     <!-- Electra -->
     <td align="center" valign="top">
       <strong>Electra</strong><br>
       <a href="https://github.com/Grehasopt/Electra-pcb" style="text-decoration: none; color: inherit;">
         <img src="doc/electra.png" alt="Electra" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
       </a><br>
-      <em>ESP8266, Kicad, ESP-IDF, C</em>
+      <em>ESP8266, Kicad, ESP-IDF, C, Relays</em>
     </td>
-    <!-- Personal collection of notes -->
+    <!-- STM32 Heater -->
     <td align="center" valign="top">
-      <strong>Personal collection of notes</strong><br>
-      <a href="https://github.com/CSpyridakis/notes" style="text-decoration: none; color: inherit;">
-        <img src="doc/notes-repo.png" alt="Personal collection of notes" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
+      <strong>STM32 Heater</strong><br>
+      <a href="https://github.com/CSpyridakis/stm32l4-heater" style="text-decoration: none; color: inherit;">
+        <img src="doc/stm32l4-heater.png" alt="STM32 Heater" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
       </a><br>
-      <em>AWS, RPM, Jenkins, Linux, Rust</em>
+      <em>STM32, STM32CubeIDE, Kicad, C, Zero crossing detection, PID Controller</em>
     </td>
   </tr>
 </table>
