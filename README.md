@@ -22,7 +22,7 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
   <tr>
     <!-- Stemerot -->
     <td align="center" valign="top">
-      <strong>Founder of Stemerot.com</strong><br>
+      <strong>Founder @ Stemerot.com</strong><br>
       <a href="https://stemerot.com" style="text-decoration: none; color: inherit;">
         <img src="doc/stemerot-site.png" alt="Stemerot.com screenshot" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
       </a><br>
