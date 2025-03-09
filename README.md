@@ -26,7 +26,7 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
       <a href="https://stemerot.com" style="text-decoration: none; color: inherit;">
         <img src="doc/stemerot-site.png" alt="Stemerot.com screenshot" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
       </a><br>
-      <em>Hugo, Bash, CI/CD, Cloudflare</em>
+      <em>Hugo, Bash, CI/CD, Cloudflare, Docker, AWS</em>
     </td>
     <!-- Homelab -->
     <td align="center" valign="top">
@@ -34,7 +34,7 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
       <a href="https://github.com/CSpyridakis/homelab" style="text-decoration: none; color: inherit;">
         <img src="doc/homelab.png" alt="Homelab" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
       </a><br>
-      <em>System Administration, Networks, Proxmox, Docker, Mikrotik</em>
+      <em>System Administration, Networks, Proxmox, Docker, Virtualization, Mikrotik</em>
     </td>
     <!-- Mocap System -->
     <td align="center" valign="top">
