@@ -4,7 +4,7 @@
 
 ### Digital Craftsman (Engineer | Creator | Author)
 
-Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. My journey began in embedded system development, where I built low-level systems and gained hands-on experience with hardware-software integration. Over time, I expanded my expertise in systems engineering, Linux, and automation, constantly seeking ways to improve efficiency and scalability. Recognizing the power of automation, I am currently transitioning into DevOps engineering, where I apply my system-level thinking to infrastructure, CI/CD, and cloud-native technologies. My goal is to bridge the gap between embedded systems and modern DevOps practices, enabling large-scale deployment of cutting-edge solutions.
+Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. My journey began in embedded system development, where I built low-level systems and gained hands-on experience with hardware-software integration. Over time, I expanded my expertise in systems engineering, Linux, and networks, constantly seeking ways to improve efficiency and scalability. Recognizing the power of automation, I am currently expanding my system‐level thinking to DevOps principles like infrastructures and cloud‐native technologies to provide in a large scale cutting edge solutions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cspyridakis/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-badge"></a> 
