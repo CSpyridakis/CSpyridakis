@@ -61,7 +61,7 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
         <img src="doc/electra.png" alt="Electra" width="300" style="border: 1px solid #ddd; border-radius: 3px;">
       </a><br>
       <em>ESP8266, Kicad, ESP-IDF, C, Relays</em>
-    </td>
+    </td> 
     <!-- STM32 Heater -->
     <td align="center" valign="top">
       <strong>STM32 Heater</strong><br>
@@ -76,56 +76,74 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
 <hr>
 
 <h3 align="">These are some of the technologies I have used in the past:</h3>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img style="height: 36px" src="doc/c_logo.png" alt="C Logo" class="logo"></a> 
-<a href="http://www.cplusplus.org/"><img style="height: 36px" src="doc/cpp_logo.png" alt="Cpp Logo" class="logo"></a>
-<a href="https://www.python.org/"><img style="height: 36px" src="doc/python_logo.png" alt="Python Logo" class="logo"></a> 
-<a href="https://www.java.com/en/"><img style="height: 36px" src="doc/java_logo.png" alt="Java Logo" class="logo"></a>
-<a href="https://www.rust-lang.org/"><img style="height: 36px" src="doc/rust_logo.svg" alt="Rust Logo" class="logo"></a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img style="height: 36px" src="doc/bash-logo.png" alt="Bash Logo" class="logo"></a> 
-<a href="https://www.mathworks.com/products/matlab.html"><img style="height: 36px" src="doc/matlab-logo.png" alt="Matlab Logo" class="logo"></a> 
-<a href="https://www.latex-project.org/"><img style="height: 36px" src="doc/latex-logo.png" alt="Latex Logo" class="logo"></a> 
-<a href="https://www.gnu.org/software/make/manual/make.html"><img style="height: 36px" src="doc/make_logo.png" alt="Makefile Logo" class="logo"></a> 
-<a href="https://www.sourceware.org/gdb/"><img style="height: 36px" src="doc/gdb-logo.png" alt="GDB Logo" class="logo"></a> 
-<a href="https://github.com/tmux/tmux/wiki"><img style="height: 36px" src="doc/tmux_logo.png" alt="TMUX Logo" class="logo"></a> 
-<a href="https://cmake.org/"><img style="height: 36px" src="doc/cmake-logo.png" alt="CMake Logo" class="logo"></a> 
-<a href="https://gohugo.io/"><img style="height: 36px" src="doc/hugo-logo-wide.svg" alt="Hugo Logo" class="logo"></a> 
-<a href="https://www.vim.org/"><img style="height: 36px" src="doc/vim_logo.png" alt="Vim Logo" class="logo"></a> 
-<a href="https://valgrind.org/"><img style="height: 36px" src="doc/valgrind_logo.png" alt="Valgrind" class="logo"></a> 
-<a href="https://git-scm.com/"><img style="height: 36px" src="doc/git-logo.png" alt="Git Logo" class="logo"></a> 
-<a href="https://www.arm.com/"><img style="height: 36px" src="doc/arm_logo.png" alt="ARM Logo" class="logo"></a> 
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img style="height: 36px" src="doc/stm32_logo.png" alt="STM32" class="logo"></a> 
-<a href="https://en.wikipedia.org/wiki/AVR_microcontrollers"><img style="height: 36px" src="doc/avr_logo.png" alt="AVR Logo" class="logo"></a> 
-<a href="https://www.esp8266.com/"><img style="height: 36px" src="doc/esp8266_logo.png" alt="ESP8266 Logo" class="logo"></a> 
-<a href="https://platformio.org/"><img style="height: 36px" src="doc/platformio_logo.png" alt="Platformio Logo" class="logo"></a> 
-<a href="http://www.tinyos.net/"><img style="height: 36px" src="doc/tinyos-logo.png" alt="TinyOS Logo" class="logo"></a> 
-<a href="https://code.visualstudio.com/"><img style="height: 36px" src="doc/vs-code_logo.png" alt="VSCode Logo" class="logo"></a>
-<a href="https://visualstudio.microsoft.com/"><img style="height: 36px" src="doc/visual_studio_logo.png" alt="Visual Studio" class="logo"></a> 
-<a href="https://www.jetbrains.com/"><img style="height: 36px" src="doc/jetbrains-logo.png" alt="Jetbrains Logo" class="logo"></a> 
-<a href="https://www.kicad.org/"><img style="height: 36px" src="doc/kicad-logo.png" alt="Kicad Logo" class="logo"></a> 
-<a href="https://developer.android.com/studio"><img style="height: 36px" src="doc/android_studio_logo.png" alt="Android Studio Logo" class="logo"></a> 
-<a href="https://www.arduino.cc/"><img style="height: 36px" src="doc/arduino_logo.png" alt="Arduino Logo" class="logo"></a> 
-<a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img style="height: 36px" src="doc/stm32cubeide_logo.png" alt="STM32CubeIDE" class="logo"></a> 
-<a href="https://www.eclipse.org/"><img style="height: 36px" src="doc/eclipse_logo.png" alt="Eclipse Logo" class="logo"></a> 
-<a href="https://www.autodesk.com/products/eagle/overview"><img src="doc/eagle-cad-logo.png" style="height: 36px" alt="Eagle Logo" class="logo"></a>
-<a href="https://fritzing.org/"><img src="doc/fritzing_logo.png" style="height: 36px" alt="Fritzing Logo" class="logo"></a> 
-<a href="https://www.ros.org/"><img style="height: 36px" src="doc/ros_logo.png" alt="ROS Logo" class="logo"></a> 
-<a href="https://opencv.org/"><img style="height: 36px" src="doc/opencv_logo.png" alt="OpenCV Logo" class="logo"></a> 
-<a href="https://en.wikipedia.org/wiki/Pthreads"><img style="height: 36px" src="doc/pthreads_logo.png" alt="PThreads Logo" class="logo"></a> 
-<a href="https://pybind11.readthedocs.io/en/stable/basics.html"><img style="height: 36px" src="doc/pybind11_logo.png" alt="Pybind11" class="logo"></a> 
-<a href="https://www.openmp.org/"><img style="height: 36px" src="doc/openmp_logo.png" alt="OpenMP Logo" class="logo"></a>
-<a href="https://www.tinyusb.org/"><img src="doc/tinyusb_logo.png" style="height: 36px" alt="tinyusb" class="logo"></a> 
-<a href="https://www.postgresql.org/"><img style="height: 36px" src="doc/postgres-sql_logo.png" alt="Postgres SQL Logo" class="logo"></a> 
-<a href="https://www.mysql.com/"><img style="height: 36px" src="doc/my-sql_logo.png" alt="MySQL Logo" class="logo"></a> 
-<a href="https://www.docker.com/"><img style="height: 36px" src="doc/docker_logo.png" alt="Docker Logo" class="logo"></a> 
-<a href="https://github.com/"><img style="height: 36px" src="doc/github-logo.svg" alt="Github Logo" class="logo"></a> 
-<a href=""><img style="height: 36px" src="doc/linux_logo.png" alt="Linux Logo" class="logo"></a> 
-<a href="https://www.microsoft.com/el-gr/windows"><img style="height: 36px" src="doc/windows-logo.png" alt="Windows Logo" class="logo"></a> 
-<a href="https://www.vmware.com/"><img style="height: 36px" src="doc/vm-ware-logo.png" alt="VMWare Logo" class="logo"></a> 
-<a href="https://www.virtualbox.org/"><img style="height: 36px" src="doc/virtualbox-logo.png" alt="Virtualbox Logo" class="logo"></a> 
-<a href="https://en.wikipedia.org/wiki/USB"><img src="doc/usb_logo.png" style="height: 36px" alt="USB Protocol" class="logo"></a> 
-<a href="https://en.wikipedia.org/wiki/I%C2%B2C"><img src="doc/i2c_logo.png" style="height: 36px" alt="I2C Protocol" class="logo"></a> 
-<a href="https://en.wikipedia.org/wiki/Serial_Peripheral_Interface"><img src="doc/spi_logo.png" style="height: 36px" alt="SPI Protocol" class="logo"></a> 
-<a href="https://el.wikipedia.org/wiki/UART"><img src="doc/uart_logo.png" style="height: 36px" alt="UART Protocol" class="logo"></a> 
+
+<!-- BADGES:START -->
+<!-- Auto-generated by scripts/gen-badges.sh — edit data there, then run the script. -->
+
+<h4></h4>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img style="height: 36px" src="https://img.shields.io/badge/C-%23283593.svg?style=for-the-badge&logoColor=white" alt="C" class="logo"></a>
+<a href="http://www.cplusplus.org/"><img style="height: 36px" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logoColor=white" alt="C++" class="logo"></a>
+<a href="https://www.python.org/"><img style="height: 36px" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logoColor=white" alt="Python" class="logo"></a>
+<a href="https://www.java.com/en/"><img style="height: 36px" src="https://img.shields.io/badge/Java-%23E76F00.svg?style=for-the-badge&logoColor=white" alt="Java" class="logo"></a>
+<a href="https://www.rust-lang.org/"><img style="height: 36px" src="https://img.shields.io/badge/Rust-%23B7410E.svg?style=for-the-badge&logoColor=white" alt="Rust" class="logo"></a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img style="height: 36px" src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logoColor=white" alt="Bash" class="logo"></a>
+<a href="https://www.mathworks.com/products/matlab.html"><img style="height: 36px" src="https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logoColor=white" alt="MATLAB" class="logo"></a>
+<a href="https://www.kernel.org/"><img style="height: 36px" src="https://img.shields.io/badge/Linux-%232D3E50.svg?style=for-the-badge&logoColor=white" alt="Linux" class="logo"></a>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img style="height: 36px" src="https://img.shields.io/badge/RHEL-%23EE0000.svg?style=for-the-badge&logoColor=white" alt="RHEL" class="logo"></a>
+<a href="https://www.microsoft.com/el-gr/windows"><img style="height: 36px" src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logoColor=white" alt="Windows" class="logo"></a>
+<a href="https://www.linux-kvm.org/"><img style="height: 36px" src="https://img.shields.io/badge/KVM-%23A80030.svg?style=for-the-badge&logoColor=white" alt="KVM" class="logo"></a>
+<a href="https://www.proxmox.com/"><img style="height: 36px" src="https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logoColor=white" alt="Proxmox" class="logo"></a>
+<a href="https://www.vmware.com/"><img style="height: 36px" src="https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logoColor=white" alt="VMware" class="logo"></a>
+<a href="https://www.virtualbox.org/"><img style="height: 36px" src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logoColor=white" alt="VirtualBox" class="logo"></a>
+<a href="https://www.docker.com/"><img style="height: 36px" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logoColor=white" alt="Docker" class="logo"></a>
+<a href="https://kubernetes.io/"><img style="height: 36px" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logoColor=white" alt="Kubernetes" class="logo"></a>
+<a href="https://k3s.io/"><img style="height: 36px" src="https://img.shields.io/badge/k3s-%23E89211.svg?style=for-the-badge&logoColor=white" alt="k3s" class="logo"></a>
+<a href="https://k9scli.io/"><img style="height: 36px" src="https://img.shields.io/badge/k9s-%2300A8E0.svg?style=for-the-badge&logoColor=white" alt="k9s" class="logo"></a>
+<a href="https://www.ansible.com/"><img style="height: 36px" src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logoColor=white" alt="Ansible" class="logo"></a>
+<a href="https://www.hpe.com/us/en/servers/proliant.html"><img style="height: 36px" src="https://img.shields.io/badge/HP_ProLiant-%230096D6.svg?style=for-the-badge&logoColor=white" alt="HP ProLiant" class="logo"></a>
+<a href="https://mikrotik.com/"><img style="height: 36px" src="https://img.shields.io/badge/MikroTik-%23293239.svg?style=for-the-badge&logoColor=white" alt="MikroTik" class="logo"></a>
+<a href="https://www.nginx.com/"><img style="height: 36px" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logoColor=white" alt="Nginx" class="logo"></a>
+<a href="https://www.postgresql.org/"><img style="height: 36px" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logoColor=white" alt="PostgreSQL" class="logo"></a>
+<a href="https://www.mysql.com/"><img style="height: 36px" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logoColor=white" alt="MySQL" class="logo"></a>
+<a href="https://www.sqlite.org/"><img style="height: 36px" src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logoColor=white" alt="SQLite" class="logo"></a>
+<a href="https://www.arm.com/"><img style="height: 36px" src="https://img.shields.io/badge/ARM-%230091BD.svg?style=for-the-badge&logoColor=white" alt="ARM" class="logo"></a>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img style="height: 36px" src="https://img.shields.io/badge/STM32-%234DA3DD.svg?style=for-the-badge&logoColor=white" alt="STM32" class="logo"></a>
+<a href="https://en.wikipedia.org/wiki/AVR_microcontrollers"><img style="height: 36px" src="https://img.shields.io/badge/AVR-%23BF1E2D.svg?style=for-the-badge&logoColor=white" alt="AVR" class="logo"></a>
+<a href="https://www.esp8266.com/"><img style="height: 36px" src="https://img.shields.io/badge/ESP8266-%23E7352C.svg?style=for-the-badge&logoColor=white" alt="ESP8266" class="logo"></a>
+<a href="https://platformio.org/"><img style="height: 36px" src="https://img.shields.io/badge/PlatformIO-%23F5822A.svg?style=for-the-badge&logoColor=white" alt="PlatformIO" class="logo"></a>
+<a href="http://www.tinyos.net/"><img style="height: 36px" src="https://img.shields.io/badge/TinyOS-%234D4D4D.svg?style=for-the-badge&logoColor=white" alt="TinyOS" class="logo"></a>
+<a href="https://www.tinyusb.org/"><img style="height: 36px" src="https://img.shields.io/badge/TinyUSB-%236C757D.svg?style=for-the-badge&logoColor=white" alt="TinyUSB" class="logo"></a>
+<a href="https://www.gnu.org/software/make/manual/make.html"><img style="height: 36px" src="https://img.shields.io/badge/GNU_Make-%23A42E2B.svg?style=for-the-badge&logoColor=white" alt="GNU Make" class="logo"></a>
+<a href="https://cmake.org/"><img style="height: 36px" src="https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logoColor=white" alt="CMake" class="logo"></a>
+<a href="https://www.sourceware.org/gdb/"><img style="height: 36px" src="https://img.shields.io/badge/GDB-%23A42E2B.svg?style=for-the-badge&logoColor=white" alt="GDB" class="logo"></a>
+<a href="https://valgrind.org/"><img style="height: 36px" src="https://img.shields.io/badge/Valgrind-%237B1FA2.svg?style=for-the-badge&logoColor=white" alt="Valgrind" class="logo"></a>
+<a href="https://git-scm.com/"><img style="height: 36px" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logoColor=white" alt="Git" class="logo"></a>
+<a href="https://github.com/"><img style="height: 36px" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logoColor=white" alt="GitHub" class="logo"></a>
+<a href="https://www.vim.org/"><img style="height: 36px" src="https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logoColor=white" alt="Vim" class="logo"></a>
+<a href="https://github.com/tmux/tmux/wiki"><img style="height: 36px" src="https://img.shields.io/badge/tmux-%23128410.svg?style=for-the-badge&logoColor=white" alt="tmux" class="logo"></a>
+<a href="https://code.visualstudio.com/"><img style="height: 36px" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logoColor=white" alt="VS Code" class="logo"></a>
+<a href="https://visualstudio.microsoft.com/"><img style="height: 36px" src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logoColor=white" alt="Visual Studio" class="logo"></a>
+<a href="https://www.jetbrains.com/"><img style="height: 36px" src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logoColor=white" alt="JetBrains" class="logo"></a>
+<a href="https://www.eclipse.org/"><img style="height: 36px" src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logoColor=white" alt="Eclipse" class="logo"></a>
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img style="height: 36px" src="https://img.shields.io/badge/STM32CubeIDE-%2303234B.svg?style=for-the-badge&logoColor=white" alt="STM32CubeIDE" class="logo"></a>
+<a href="https://developer.android.com/studio"><img style="height: 36px" src="https://img.shields.io/badge/Android_Studio-%23073042.svg?style=for-the-badge&logoColor=white" alt="Android Studio" class="logo"></a>
+<a href="https://www.arduino.cc/"><img style="height: 36px" src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logoColor=white" alt="Arduino" class="logo"></a>
+<a href="https://www.kicad.org/"><img style="height: 36px" src="https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logoColor=white" alt="KiCad" class="logo"></a>
+<a href="https://www.autodesk.com/products/eagle/overview"><img style="height: 36px" src="https://img.shields.io/badge/Eagle_CAD-%23A86F2C.svg?style=for-the-badge&logoColor=white" alt="Eagle CAD" class="logo"></a>
+<a href="https://fritzing.org/"><img style="height: 36px" src="https://img.shields.io/badge/Fritzing-%23C99A00.svg?style=for-the-badge&logoColor=white" alt="Fritzing" class="logo"></a>
+<a href="https://www.ros.org/"><img style="height: 36px" src="https://img.shields.io/badge/ROS-%2322314E.svg?style=for-the-badge&logoColor=white" alt="ROS" class="logo"></a>
+<a href="https://opencv.org/"><img style="height: 36px" src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logoColor=white" alt="OpenCV" class="logo"></a>
+<a href="https://en.wikipedia.org/wiki/Pthreads"><img style="height: 36px" src="https://img.shields.io/badge/PThreads-%233D6117.svg?style=for-the-badge&logoColor=white" alt="PThreads" class="logo"></a>
+<a href="https://www.openmp.org/"><img style="height: 36px" src="https://img.shields.io/badge/OpenMP-%2300599C.svg?style=for-the-badge&logoColor=white" alt="OpenMP" class="logo"></a>
+<a href="https://pybind11.readthedocs.io/en/stable/basics.html"><img style="height: 36px" src="https://img.shields.io/badge/pybind11-%23306998.svg?style=for-the-badge&logoColor=white" alt="pybind11" class="logo"></a>
+<a href="https://gohugo.io/"><img style="height: 36px" src="https://img.shields.io/badge/Hugo-%23FF4088.svg?style=for-the-badge&logoColor=white" alt="Hugo" class="logo"></a>
+<a href="https://www.latex-project.org/"><img style="height: 36px" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logoColor=white" alt="LaTeX" class="logo"></a>
+<a href="https://www.latex-project.org/"><img style="height: 36px" src="https://img.shields.io/badge/Typst-%23008080.svg?style=for-the-badge&logoColor=white" alt="Typst" class="logo"></a>
+<a href="https://en.wikipedia.org/wiki/USB"><img style="height: 36px" src="https://img.shields.io/badge/USB-%232D2D2D.svg?style=for-the-badge&logoColor=white" alt="USB" class="logo"></a>
+<a href="https://en.wikipedia.org/wiki/I%C2%B2C"><img style="height: 36px" src="https://img.shields.io/badge/I%C2%B2C-%233F51B5.svg?style=for-the-badge&logoColor=white" alt="I2C" class="logo"></a>
+<a href="https://en.wikipedia.org/wiki/Serial_Peripheral_Interface"><img style="height: 36px" src="https://img.shields.io/badge/SPI-%23009688.svg?style=for-the-badge&logoColor=white" alt="SPI" class="logo"></a>
+<a href="https://el.wikipedia.org/wiki/UART"><img style="height: 36px" src="https://img.shields.io/badge/UART-%23FF5722.svg?style=for-the-badge&logoColor=white" alt="UART" class="logo"></a>
+<!-- BADGES:END -->
 
 ---
 
@@ -135,3 +153,7 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=cspyridakis&style=flat-square)
 
 <br/>
+
+---
+
+<sub><em>Names referenced are trademarks of their respective owners; used descriptively, no endorsement implied.</em></sub>
