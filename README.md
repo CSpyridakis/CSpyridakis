@@ -138,7 +138,11 @@ Hi, I’m Christos, an Engineer from Greece, driven by a deep passion for STEM. 
 <a href="https://pybind11.readthedocs.io/en/stable/basics.html"><img style="height: 36px" src="https://img.shields.io/badge/pybind11-%23306998.svg?style=for-the-badge&logoColor=white" alt="pybind11" class="logo"></a>
 <a href="https://gohugo.io/"><img style="height: 36px" src="https://img.shields.io/badge/Hugo-%23FF4088.svg?style=for-the-badge&logoColor=white" alt="Hugo" class="logo"></a>
 <a href="https://www.latex-project.org/"><img style="height: 36px" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logoColor=white" alt="LaTeX" class="logo"></a>
-<a href="https://www.latex-project.org/"><img style="height: 36px" src="https://img.shields.io/badge/Typst-%23008080.svg?style=for-the-badge&logoColor=white" alt="Typst" class="logo"></a>
+<a href="https://typst.app/"><img style="height: 36px" src="https://img.shields.io/badge/Typst-%23239DAD.svg?style=for-the-badge&logoColor=white" alt="Typst" class="logo"></a>
+<a href="https://www.anthropic.com/claude"><img style="height: 36px" src="https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logoColor=white" alt="Claude" class="logo"></a>
+<a href="https://github.com/openai/codex"><img style="height: 36px" src="https://img.shields.io/badge/Codex-%23412991.svg?style=for-the-badge&logoColor=white" alt="Codex" class="logo"></a>
+<a href="https://gemini.google.com/"><img style="height: 36px" src="https://img.shields.io/badge/Gemini-%238E75B2.svg?style=for-the-badge&logoColor=white" alt="Gemini" class="logo"></a>
+<a href="https://ollama.com/"><img style="height: 36px" src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logoColor=white" alt="Ollama" class="logo"></a>
 <a href="https://en.wikipedia.org/wiki/USB"><img style="height: 36px" src="https://img.shields.io/badge/USB-%232D2D2D.svg?style=for-the-badge&logoColor=white" alt="USB" class="logo"></a>
 <a href="https://en.wikipedia.org/wiki/I%C2%B2C"><img style="height: 36px" src="https://img.shields.io/badge/I%C2%B2C-%233F51B5.svg?style=for-the-badge&logoColor=white" alt="I2C" class="logo"></a>
 <a href="https://en.wikipedia.org/wiki/Serial_Peripheral_Interface"><img style="height: 36px" src="https://img.shields.io/badge/SPI-%23009688.svg?style=for-the-badge&logoColor=white" alt="SPI" class="logo"></a>

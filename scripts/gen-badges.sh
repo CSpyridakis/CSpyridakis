@@ -122,7 +122,13 @@ generate() {
     # section "Static Site &amp; Typesetting"
     badge "Hugo"  "FF4088" "https://gohugo.io/"
     badge "LaTeX" "008080" "https://www.latex-project.org/"
-    badge "Typst" "008080" "https://www.latex-project.org/"
+    badge "Typst" "239DAD" "https://typst.app/"
+
+    # section "AI / LLM Tools"
+    badge "Claude"  "D97757" "https://www.anthropic.com/claude"
+    badge "Codex"   "412991" "https://github.com/openai/codex"
+    badge "Gemini"  "8E75B2" "https://gemini.google.com/"
+    badge "Ollama"  "000000" "https://ollama.com/"
 
     # section "Hardware Protocols"
     badge "USB"  "2D2D2D" "https://en.wikipedia.org/wiki/USB"
